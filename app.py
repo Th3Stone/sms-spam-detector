@@ -35,3 +35,4 @@ if st.button("Check"):
 st.sidebar.title("About")
 st.sidebar.info("This app uses a Naive Bayes classifier trained on 5,000+ real text messages to detect spam with 99% accuracy.")
 st.sidebar.info("Ceated by Jose Piedrahita")
+st.sidebar.info("More Projects: github.com/Th3Stone")
